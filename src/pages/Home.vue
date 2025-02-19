@@ -35,17 +35,13 @@
 
 <script setup>
 const handleContact = () => {
-  // Add your contact handling logic here
   console.log('Contact button clicked')
 }
 
 const handlePortfolio = () => {
-  // Add your portfolio handling logic here
   console.log('Portfolio button clicked')
 }
 </script>
 
 <style scoped>
-/* Any additional custom styles can go here */
-/* The majority of styling is handled by Tailwind classes */
 </style>
