@@ -31,15 +31,15 @@
           </div>
 
           <div class="project-container p-4 bg-gray-700 rounded-lg text-center flex-shrink-0 w-full">
-            <img src="https://via.placeholder.com/800x400" alt="Project 3" class="w-full h-auto rounded-lg mb-4">
-            <h3 class="text-xl font-semibold text-white">Project 3</h3>
-            <p class="text-gray-300">Description of Project 3</p>
+            <img src="/home/jurgen/portfolio2.0/src/components/imgs/tetris.png" alt="Project 3" class="w-full h-auto rounded-lg mb-4">
+            <h3 class="text-xl font-semibold text-white">Project tetris</h3>
+            <p class="text-gray-300">for the tetris project we had to make a tetris game with css, html and js.</p>
           </div>
 
           <div class="project-container p-4 bg-gray-700 rounded-lg text-center flex-shrink-0 w-full">
-            <img src="https://via.placeholder.com/800x400" alt="Project 4" class="w-full h-auto rounded-lg mb-4">
-            <h3 class="text-xl font-semibold text-white">Project 4</h3>
-            <p class="text-gray-300">Description of Project 4</p>
+            <img src="/home/jurgen/portfolio2.0/src/components/imgs/snake.png" alt="Project 4" class="w-full h-auto rounded-lg mb-4">
+            <h3 class="text-xl font-semibold text-white">Project snake</h3>
+            <p class="text-gray-300">In the snake project we had to make a snake game with js, html and css.</p>
           </div>
         </div>
       </div>
