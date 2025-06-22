@@ -21,13 +21,14 @@
         <div class="slider-container overflow-hidden relative">
           <div class="slider flex space-x-4" :style="{ transform: `translateX(-${currentIndex * 100}%)` }">
             <div class="project-container p-4 bg-gray-700 rounded-lg text-center flex-shrink-0 w-full">
-              <img src="/home/jurgen/portfolio/portfolio/src/components/imgs/Kuvatõmmis 2024-11-20 103040.png" alt="Project 1" class="w-full h-auto rounded-lg mb-4">
+              <img src="/imgs/Kuvatõmmis_2024-11-20_103040.png" alt="Project 1" class="w-full h-auto rounded-lg mb-4">
               <h3 class="text-xl font-semibold text-white">Project 1</h3>
               <p class="text-gray-300">1st project where we had to code a similimer site we were given</p>
             </div>
   
             <div class="project-container p-4 bg-gray-700 rounded-lg text-center flex-shrink-0 w-full">
-              <img src="/home/jurgen/portfolio/portfolio/src/components/imgs/Kuvatõmmis 2024-11-20 103452.png" alt="Project 2" class="w-full h-auto rounded-lg mb-4">
+              <img src="/imgs/Kuvatõmmis_2024-11-20_103452.png" alt="Project 2" class="w-full h-auto rounded-lg mb-4">
+
               <h3 class="text-xl font-semibold text-white">Project 2</h3>
               <p class="text-gray-300">We had to code a card so when u hover over it it would flip</p>
             </div>

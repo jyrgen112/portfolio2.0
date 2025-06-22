@@ -1,7 +1,7 @@
 <template>
    <div class="bg-gray-800 text-white p-4">
     <nav class="flex justify-between">
-      <div class="text-2xl font-bold">My Portfolio</div>
+      <div class="text-2xl font-bold">Jürgen V</div>
       <div>
         <router-link to="/" class="p-2 hover:bg-gray-700">Home</router-link>
         <router-link to="/about" class="p-2 hover:bg-gray-700">About</router-link>

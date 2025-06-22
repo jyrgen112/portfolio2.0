@@ -18,7 +18,7 @@
           <!-- Image 1: Your Photo -->
           <div class="image-container w-1/4">
             <img 
-              src="https://via.placeholder.com/300" 
+              src="/home/jurgen/portfolio2.0/public/imgs/OF.jpg" 
               alt="Jürgen Vander" 
               class="w-full h-auto rounded-lg shadow-lg"
             />
@@ -28,7 +28,7 @@
           <!-- Image 2: Estonia Defence Legion -->
           <div class="image-container w-1/4">
             <img 
-              src="https://via.placeholder.com/300" 
+              src="/home/jurgen/portfolio2.0/public/imgs/KL.png" 
               alt="Estonian Defence Legion" 
               class="w-full h-auto rounded-lg shadow-lg"
             />
@@ -38,21 +38,11 @@
           <!-- Image 3: Gym -->
           <div class="image-container w-1/4">
             <img 
-              src="https://via.placeholder.com/300" 
+              src="/home/jurgen/portfolio2.0/public/imgs/gym.png" 
               alt="Gym" 
               class="w-full h-auto rounded-lg shadow-lg"
             />
             <p class="text-center mt-2">Gym Lifestyle</p>
-          </div>
-          
-          <!-- Image 4: Tennis -->
-          <div class="image-container w-1/4">
-            <img 
-              src="https://via.placeholder.com/300" 
-              alt="Tennis" 
-              class="w-full h-auto rounded-lg shadow-lg"
-            />
-            <p class="text-center mt-2">Tennis</p>
           </div>
         </div>
       </div>
