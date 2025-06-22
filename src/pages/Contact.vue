@@ -2,12 +2,12 @@
     <div class="contact p-8 text-center">
       <h1 class="text-4xl font-bold text-white mb-6">Contact Me</h1>
       
-      <!-- Email -->
+      
       <p class="text-xl text-gray-300 mb-6">
         Email: <a href="mailto:jyrgen.vander@gmail.com" class="text-blue-400 hover:underline">jyrgen.vander@gmail.com</a>
       </p>
   
-      <!-- Simple Contact Form -->
+      
       <h2 class="text-2xl font-medium text-gray-200 mb-4">Or send me a message</h2>
       <form @submit.prevent="submitForm" class="max-w-xl mx-auto">
         <div class="mb-4">
@@ -38,9 +38,8 @@
     },
     methods: {
       submitForm() {
-        // Add form submission logic here
+        
         alert(`Message sent by: ${this.name}`);
-        // Optionally, you can add email service integration here
         this.name = '';
         this.email = '';
         this.message = '';

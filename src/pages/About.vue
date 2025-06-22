@@ -3,7 +3,6 @@
       <div class="about-content p-8">
         <h1 class="text-4xl font-bold text-center mb-6">About Me</h1>
         
-        <!-- Personal Description -->
         <div class="description mb-8">
           <p class="text-lg">
             My name is <strong>Jürgen Vander</strong>, and I am a beginner web developer. I have been learning coding for 2 years at <strong>Kuresaare Ametikool</strong>. I try to learn something new about coding every day.
@@ -13,32 +12,40 @@
           </p>
         </div>
   
-        <!-- Images -->
         <div class="images flex justify-around gap-8 mb-8">
-          <!-- Image 1: Your Photo -->
           <div class="image-container w-1/4">
             <img 
+<<<<<<< HEAD
               src="/home/jurgen/portfolio2.0/public/imgs/OF.jpg" 
+=======
+              src="/home/jurgen/portfolio2.0/src/components/imgs/ofitlight.png" 
+>>>>>>> 6eb6d79c6b424707202b3a1187bb91b5d27ee462
               alt="Jürgen Vander" 
               class="w-full h-auto rounded-lg shadow-lg"
             />
             <p class="text-center mt-2">Jürgen Vander</p>
           </div>
-  
-          <!-- Image 2: Estonia Defence Legion -->
+
           <div class="image-container w-1/4">
             <img 
+<<<<<<< HEAD
               src="/home/jurgen/portfolio2.0/public/imgs/KL.png" 
+=======
+              src="/home/jurgen/portfolio2.0/src/components/imgs/KL.png   " 
+>>>>>>> 6eb6d79c6b424707202b3a1187bb91b5d27ee462
               alt="Estonian Defence Legion" 
               class="w-full h-auto rounded-lg shadow-lg"
             />
             <p class="text-center mt-2">Estonian Defence Legion</p>
           </div>
   
-          <!-- Image 3: Gym -->
           <div class="image-container w-1/4">
             <img 
+<<<<<<< HEAD
               src="/home/jurgen/portfolio2.0/public/imgs/gym.png" 
+=======
+              src="/home/jurgen/portfolio2.0/src/components/imgs/gym.png" 
+>>>>>>> 6eb6d79c6b424707202b3a1187bb91b5d27ee462
               alt="Gym" 
               class="w-full h-auto rounded-lg shadow-lg"
             />
@@ -56,9 +63,9 @@
   </script>
   
   <style scoped>
-  /* General page styling */
+
   .about-page {
-    background-color: #2d3748; /* Dark gray background */
+    background-color: #2d3748; 
     min-height: 100vh;
   }
   
@@ -66,7 +73,7 @@
     max-width: 900px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #2d3748; /* Consistent background color */
+    background-color: #2d3748; 
     border-radius: 10px;
   }
   
@@ -79,7 +86,7 @@
   }
   
   .image-container img:hover {
-    transform: scale(1.05); /* Zoom effect on hover */
+    transform: scale(1.05); 
   }
   
   .images {
@@ -90,7 +97,7 @@
   
   .image-container p {
     font-size: 1rem;
-    color: #e2e8f0; /* Light gray for captions */
+    color: #e2e8f0; 
   }
   </style>
   
